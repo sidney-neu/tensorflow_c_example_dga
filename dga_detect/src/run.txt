@@ -1,0 +1,2 @@
+#export LIBRARY_PATH=$LIBRARY_PATH:~/projects/tensorflow_C_api_example/dga_detect/lib
+#export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/projects/tensorflow_C_api_example/dga_detect/lib
